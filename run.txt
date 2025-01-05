@@ -1,0 +1,22 @@
+### add the followinng to env using Commands:
+export OPENAI_API_KEY="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" 
+
+
+export SERPAPI_API_KEY="3559468d2f829d4ccfe885807da06f45319090372c5927494fca417a6e46d54c"
+
+
+########## Questions for Finanical_advisor bot
+
+What things should I consider before buying a house
+If I have 10K USD where and How should I invest ?
+
+
+
+
+######## Questions for Career_advisor bot
+
+what factors should I keep in mind before deciding a career?
+
+What are the growing sectors of global economy ?
+
+If I decide to be a software engineer what would My salar be ?
