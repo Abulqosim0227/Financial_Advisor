@@ -1,8 +1,8 @@
 ### add the followinng to env using Commands:
-export OPENAI_API_KEY="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" 
+export OPENAI_API_KEY="" 
 
 
-export SERPAPI_API_KEY="3559468d2f829d4ccfe885807da06f45319090372c5927494fca417a6e46d54c"
+export SERPAPI_API_KEY=""
 
 
 ########## Questions for Finanical_advisor bot
